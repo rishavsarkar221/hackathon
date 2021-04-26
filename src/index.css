@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Coda+Caption:wght@800&display=swap');
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.main {
+  margin-top: 10%;
+  background-color: #132c33;
+  color: white;
+  padding-bottom: 2.5%;
+  padding-top: 2.5%;
+  margin-bottom: 5%;
+}
+
+.content {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.texts {
+  margin-top: 10%;
+}
+
+a {
+  color: rgb(201, 66, 201);
+}
+
+.centerAlign {
+  text-align: center;
+  font-family: Coda Caption;
+  color: lime;
+}
+
+.texts {
+  line-height: 2;
+}
